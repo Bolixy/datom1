@@ -1,0 +1,34 @@
+body {
+    background-image:url(https://avatars.mds.yandex.net/i?id=4786f6805fdaf089bfe173763d118326-5210240-images-thumbs&n=13);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+  }
+
+  hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+  }
+ h1 {
+  color: red;
+  font-size: 50px;
+  font-display: block;
+  text-align: right;
+}
+ h3 {
+   color: red;
+   font-size: 25px;
+   font-display: block;
+ }
+
+ #select
+ {
+   text-align: center;
+ }
+    footer
+    {
+      
+    }
